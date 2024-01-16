@@ -10,5 +10,5 @@ A paper list for Search Engine.
 - PARADE: Passage Representation Aggregation for Document Reranking [[ACM-TOIS2023]](https://arxiv.org/pdf/2008.09093.pdf)
 ## Semantic Retrieval
 - COIL: Revisit Exact Lexical Match in Information Retrieval with Contextualized Inverted List [[NAACL2021]](https://arxiv.org/pdf/2104.07186.pdf)
-- COIL: Revisit Exact Lexical Match in Information Retrieval with Contextualized Inverted List [[NAACL2021]](https://arxiv.org/pdf/2104.07186.pdf)
 - ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT [[SIGIR2020]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401075)
+- Rethinking Search: Making Domain Experts out of Dilettantes [[ACM SIGIR Forum2021]](https://arxiv.org/pdf/2105.02274.pdf)
