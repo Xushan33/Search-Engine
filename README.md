@@ -7,7 +7,7 @@ A paper list for Search Engine.
 - Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval [[arxiv2020]](https://arxiv.org/pdf/2007.00808.pdf)
 ## Feature
 - Poly-encoders: architectures and pre-training strategies for fast and accurate multi-sentence scoring [[ICLR2020]](https://arxiv.org/pdf/1905.01969.pdf)
+- PARADE: Passage Representation Aggregation for Document Reranking [[ACM-TOIS2023]](https://arxiv.org/pdf/2008.09093.pdf)
 ## Semantic Retrieval
 - COIL: Revisit Exact Lexical Match in Information Retrieval with Contextualized Inverted List [[NAACL2021]](https://arxiv.org/pdf/2104.07186.pdf)
-- PARADE: Passage Representation Aggregation for Document Reranking [[ACM-TOIS2023]](https://arxiv.org/pdf/2008.09093.pdf)
 - Rethinking Search: Making Domain Experts out of Dilettantes [[ACM SIGIR Forum2021]](https://arxiv.org/pdf/2105.02274.pdf)
